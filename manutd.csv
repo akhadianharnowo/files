@@ -1,13 +1,15 @@
-Year,Kit Manufacturer,Chest Sponsor,Sleeve Sponsor
-1945,Umbro,none,none
-1975,Admiral,none,none
-1980,Adidas,none,none
-1982,Adidas,Sharp Electronics,none
-1992,Umbro,Sharp Electronics,none
-2000,Umbro,Vodafone,none
-2002,Nike,Vodafone,none
-2006,Nike,AIG,none
-2010,Nike,Aon,none
-2014,Nike,Chevrolet,none
-2015,Adidas,Chevrolet,none
-2018,Adidas,Chevrolet,Kohler
+Year,Kit Manufacturer,Chest Sponsor,Sleeve Sponsor,Manager
+1945,Umbro,none,none,Matt Busby
+1975,Admiral,none,none,Tommy Docherty
+1980,Adidas,none,none,Dave Sexton
+1982,Adidas,Sharp Electronics,none,Ron Atkinson
+1992,Umbro,Sharp Electronics,none,Alex Ferguson
+2000,Umbro,Vodafone,none,Alex Ferguson
+2002,Nike,Vodafone,none,Alex Ferguson
+2006,Nike,AIG,none,Alex Ferguson
+2010,Nike,Aon,none,Alex Ferguson
+2014,Nike,Chevrolet,none,David Moyes
+2015,Adidas,Chevrolet,none,Louis van Gaal
+2018,Adidas,Chevrolet,Kohler,Jose Mourinho
+2021,Adidas,Team Viewer,Kohler,Ole Gunnar Solsjkaer
+2022,Adidas,Team Viewer,Kohler,Ralf Rangnick
